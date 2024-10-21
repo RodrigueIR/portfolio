@@ -17,4 +17,7 @@ Bsc. degree in Data Science and Analytics
 - Community Liaison
 - Mentor
 
-###
+### Projects
+Taifa Mobile 
+- Financial analysis for the Taifa Mobile
+- PowerBI analysis for the Taifa Mobile
