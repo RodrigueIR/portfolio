@@ -18,10 +18,10 @@ Bsc. degree in Data Science and Analytics
 - Mentor
 
 ### Projects
-Taifa Mobile 
+#### Taifa Mobile 
 - Financial analysis for the Taifa Mobile
 - PowerBI analysis for the Taifa Mobile
-The binomial distribution
+#### The binomial distribution
 - The parameters: N (trials),P (success probability)
 - Constructing the binomial distribution
 - Varying the probabilities of success
