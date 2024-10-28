@@ -21,3 +21,8 @@ Bsc. degree in Data Science and Analytics
 Taifa Mobile 
 - Financial analysis for the Taifa Mobile
 - PowerBI analysis for the Taifa Mobile
+The binomial distribution
+- The parameters: N (trials),P (success probability)
+- Constructing the binomial distribution
+- Varying the probabilities of success
+- Varying N affects the kurtosis
