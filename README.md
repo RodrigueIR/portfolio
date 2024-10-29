@@ -21,6 +21,7 @@ Bsc. degree in Data Science and Analytics
 #### Taifa Mobile 
 - Financial analysis for the Taifa Mobile
 - PowerBI analysis for the Taifa Mobile
+![cashflow analysis](https://github.com/RodrigueIR/Taifa-Mobile-BI-Analysis/assets/117353579/f46b094e-9b82-49d2-9ee1-ebc5abc00f78)
 #### The binomial distribution
 - The parameters: N (trials),P (success probability)
 - Constructing the binomial distribution
