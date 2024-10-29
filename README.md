@@ -26,4 +26,5 @@ Bsc. degree in Data Science and Analytics
 - The parameters: N (trials),P (success probability)
 - Constructing the binomial distribution
 - Varying the probabilities of success
+![varying P](https://github.com/user-attachments/assets/c3a5b18e-73c2-4f4f-a249-606b2d49827c)
 - Varying N affects the kurtosis
