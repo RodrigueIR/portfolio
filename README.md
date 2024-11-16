@@ -1,4 +1,4 @@
-# Data Scientist and Analyst
+# Data Scientist
 
 ### Education and skills
 Bsc. degree in Data Science and Analytics
